@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">Trained IT specialist, computer science student, tech nerd</h3>
 
-- 🔭 I’m currently working on **too many projects at once**
+- Usually working on **too many projects at once**
 
-- 🌱 I’m currently learning **Vulkan SDK / Graphics rendering**
+- 🌱 I’m currently learning/teaching myself **Vulkan SDK / Graphics rendering**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
