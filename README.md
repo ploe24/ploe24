@@ -3,7 +3,7 @@
 
 - Usually working on **too many projects at once**
 
-- 🌱 I’m currently learning/teaching myself **Vulkan SDK / Graphics rendering**
+- 🌱 I’m currently learning/teaching myself **Vulkan SDK, Graphics rendering in general**
 
 <p align="left">
 </p>
