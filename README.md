@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">Trained IT specialist, computer science student, tech nerd</h3>
+<h3 align="center">Trained IT specialist, computer science student (M.Sc.), tech nerd</h3>
 
 - Usually working on **too many projects at once**
 
-- 🌱 I’m currently learning/teaching myself **Vulkan SDK, Graphics rendering in general**
+- 🌱 I’m currently learning/teaching myself **Vulkan SDK and graphics rendering in general**
+
+- Qt enthusiast <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="20" height="20"/>
 
 <p align="left">
 </p>
