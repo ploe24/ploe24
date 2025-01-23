@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">Trained IT specialist, computer science student (M.Sc.), tech nerd</h3>
+<h1 align="center">Hi 👋, welcome to my GitHub</h1>
+<h3 align="left">$whoami</h3>
+Trained IT specialist, computer science student (M.Sc.), tech nerd
 
+<hr>
 - Usually working on **too many projects at once**
 
 - 🌱 I’m currently learning/teaching myself **Vulkan SDK and graphics rendering in general**
